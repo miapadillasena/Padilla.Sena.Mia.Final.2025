@@ -1,0 +1,13 @@
+=== REPORTE DE INVENTARIO ===
+Fecha de generación: 2025-12-16
+Total de productos: 3
+-------------------------------------------------
+Producto: A54                  | Marca: Samsumg         | Precio: $1200,00
+   -> Detalles: Smartphone con Batería: 4000mAh y Cámara: 12MP
+-------------------------------------------------
+Producto: 17Pro-Max            | Marca: Iphone          | Precio: $2000,00
+   -> Detalles: Smartphone con Batería: 4000mAh y Cámara: 12MP
+-------------------------------------------------
+Producto: S21                  | Marca: Samsung         | Precio: $1000,00
+   -> Detalles: Smartphone con Batería: 4000mAh y Cámara: 12MP
+-------------------------------------------------

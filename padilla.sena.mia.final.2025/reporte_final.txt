@@ -1,0 +1,19 @@
+=== REPORTE DE INVENTARIO ===
+Fecha de generación: 2025-12-17
+Total de productos: 5
+-------------------------------------------------
+Producto: Legion 5             | Marca: Lenovo          | Precio: $108000,00
+   -> Detalles: Especificaciones: 16GB RAM, Disco SSD 1TB
+-------------------------------------------------
+Producto: Legion 5             | Marca: Lenovo          | Precio: $120000,00
+   -> Detalles: Especificaciones: 16GB RAM, Disco SSD 1TB
+-------------------------------------------------
+Producto: G502 Hero            | Marca: Logitech        | Precio: $4500,00
+   -> Detalles: Accesorio: Mouse Gamer - Original
+-------------------------------------------------
+Producto: G502 Hero            | Marca: Logitech        | Precio: $5000,00
+   -> Detalles: Accesorio: Mouse Gamer - Original
+-------------------------------------------------
+Producto: A54                  | Marca: Samsung         | Precio: $0,00
+   -> Detalles: Smartphone con Batería: 4000mAh y Cámara: 12MP
+-------------------------------------------------
